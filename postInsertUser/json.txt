@@ -1,0 +1,25 @@
+{
+  "name": "Marcelino",
+  "account": {
+    "number": "8",
+    "agency": "0000",
+    "balance": 1324.89,
+    "limit": 3000.00
+  },
+  "card": {
+    "number": "XXX",
+    "limit": 5000.00
+  },
+  "features": [
+    {
+      "icon": "string",
+      "description": "string"
+    }
+  ],
+  "news": [
+    {
+      "icon": "string",
+      "description": "string"
+    }
+  ]
+}
