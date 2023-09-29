@@ -26,7 +26,7 @@ public class UserServiceImpl implements UserService {
     @Override
     public User create(User userToCreate) {
         if(userRepository.existsByAccountNumber(userToCreate.getAccount().getNumber())){
-            throw new IllegalArgumentException("O número da conta já existe!");
+            throw new IllegalArgumentException("O numero da conta ja existe!");
         }
         return userRepository.save(userToCreate);
     }
