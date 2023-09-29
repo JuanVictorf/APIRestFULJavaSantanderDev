@@ -1,6 +1,6 @@
 # Projeto de API Bancária
 
-Bem-vindo ao projeto de API Bancária! Esta API foi desenvolvida para registrar informações de usuários, incluindo contas bancárias e informações de cartão.
+Bem-vindo ao projeto de API Bancária! Esta API foi desenvolvida para registrar informações de usuários, incluindo contas bancárias e informações de cartão. API Desenvolvida no Bootcamp Santander da DIO 2023.
 
 ## Funcionalidades
 
