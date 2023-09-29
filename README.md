@@ -10,6 +10,18 @@ Bem-vindo ao projeto de API Bancária! Esta API foi desenvolvida para registrar 
 
 - **Informações do Cartão**: Registre e gerencie informações de cartão de crédito/débito para suas contas bancárias.
 
+- ## Tecnologias Utilizadas
+
+- **Java 17**: A API Bancária foi desenvolvida utilizando a versão mais recente do Java para garantir desempenho e segurança.
+
+- **Spring Boot 3**: O framework Spring Boot foi usado para simplificar o desenvolvimento, configurar facilmente endpoints e criar um aplicativo web robusto.
+
+- **OpenAPI**: Utilizamos o OpenAPI para documentação e testes das funcionalidades da API. Isso facilita a compreensão e o uso da API por outros desenvolvedores.
+
+- **RailWay**: O deploy da API Bancária foi feito na plataforma RailWay para garantir que ela esteja disponível na nuvem, permitindo acesso fácil a partir de qualquer lugar.
+
+- **Git**: Utilizamos o Git para versionamento de código, o que nos ajuda a controlar as alterações, colaborar com outros desenvolvedores e manter um histórico completo do projeto.
+
 
 ## Teste Agora!
 
