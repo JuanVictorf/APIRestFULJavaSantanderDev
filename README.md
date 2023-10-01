@@ -16,7 +16,7 @@ Bem-vindo ao projeto de API Bancária! Esta API foi desenvolvida para registrar 
 
 - **Spring Boot 3**: O framework Spring Boot foi usado para simplificar o desenvolvimento, configurar facilmente endpoints e criar um aplicativo web robusto.
 
-- **OpenAPI**: Utilizamos o OpenAPI para documentação e testes das funcionalidades da API. Isso facilita a compreensão e o uso da API por outros desenvolvedores.
+- **OpenAPI**: Utilizei o OpenAPI para documentação e testes das funcionalidades da API. Isso facilita a compreensão e o uso da API por outros desenvolvedores.
 
 - **RailWay**: O deploy da API Bancária foi feito na plataforma RailWay para garantir que ela esteja disponível na nuvem, permitindo acesso fácil a partir de qualquer lugar.
 
